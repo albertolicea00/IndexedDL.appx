@@ -6,7 +6,7 @@
 `IndexedDL.appx` is the Windows package of the IndexedDL suite, providing a ready‑to‑run application that enables users to explore, download, and manage indexed datasets through a graphical interface.
 
 ## 📜 License
-This project is licensed under the **MIT License**. See the `LICENSE` file for full terms.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE.md) file for full terms.
 
 ## 🤝 Collab
 - **Contributing**: We welcome contributions! Please refer to our [Contributing Guidelines](CONTRIBUTING.md) for pull‑request standards and coding style.
