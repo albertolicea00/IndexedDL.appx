@@ -1,6 +1,8 @@
 # >> IndexedDL.appx
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
+![Chrome](https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-Add--on-FF7139?style=flat-square&logo=firefox&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
 
 ## ✨ Overview
 
